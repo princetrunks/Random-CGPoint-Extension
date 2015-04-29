@@ -1,4 +1,4 @@
-# Random-CGPoint-Extension in Swift
+# Random-CGPoint-Extension in Apple Swift
 
 //  Extension that uses various functions to create random CGPoints
 
